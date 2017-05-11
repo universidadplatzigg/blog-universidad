@@ -1,2 +1,17 @@
-# blog-universidad
-Es un proyecto dedicado al crecimiento de comunidad universitaria a través de un blog de eventos.
+Blog UniversidadGG
+
+[Descripcion del proyecto]
+
+[Instalación]
+-Requisitos
+-Versión
+-Encargados del proyecto
+
+[Uso]
+
+[Documentación]
+
+[Roadmap]
+
+[Licencia]
+
